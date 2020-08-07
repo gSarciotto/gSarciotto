@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm very interested in building **maintainable** and **correct** software.
+I'm a developer very interested in building **maintainable** and **correct** software.
 
 ### Technologies :computer:
 
