@@ -10,11 +10,11 @@ I'm a developer very interested in building **maintainable** and **correct** sof
 
 ### Currently working on :hammer:
 
-I'm working on a basic issue tracker, feel free to see the code at:
+I'm working on [Proffy](https://github.com/gSarciotto/Proffy-NLW2-customized)
 
 #### Currently learning :green_book:
-  - Clean code/architecture
-  - UI/UX
+  - TDD
+  - PostgreSQL
   - Rust
   
 #### Contact me :link:
