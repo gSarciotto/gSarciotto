@@ -7,6 +7,7 @@ I'm a developer very interested in building **maintainable** and **correct** sof
 - Typescript
 - NodeJS
 - React
+- Angular
 
 ### Currently working on :hammer:
 
