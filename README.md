@@ -15,6 +15,7 @@ I'm working on [Proffy](https://github.com/gSarciotto/Proffy-NLW2-customized)
 #### Currently learning :green_book:
   - TDD
   - More about JS/TS
+  - Algorithms
   
 #### Contact me :link:
   [![Linkedin Badge](https://img.shields.io/badge/-GiovanniSarciotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsarciotto/)](https://www.linkedin.com/in/giovanni-sarciotto/)
