@@ -10,7 +10,7 @@ I'm a developer very interested in building **maintainable** and **correct** sof
 
 ### Currently working on :hammer:
 
-I'm working on [Proffy](https://github.com/gSarciotto/Proffy-NLW2-customized)
+I'm working on [Myers Diff algorithm](https://github.com/gSarciotto/myers-diff) and documentation for [angular-eslint](https://github.com/angular-eslint/angular-eslint).
 
 #### Currently learning :green_book:
   - TDD
